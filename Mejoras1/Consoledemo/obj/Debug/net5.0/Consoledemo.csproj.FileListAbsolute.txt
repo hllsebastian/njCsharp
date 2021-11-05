@@ -1,0 +1,16 @@
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\bin\Debug\net5.0\Consoledemo.exe
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\bin\Debug\net5.0\Consoledemo.deps.json
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\bin\Debug\net5.0\Consoledemo.runtimeconfig.json
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\bin\Debug\net5.0\Consoledemo.runtimeconfig.dev.json
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\bin\Debug\net5.0\Consoledemo.dll
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\bin\Debug\net5.0\ref\Consoledemo.dll
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\bin\Debug\net5.0\Consoledemo.pdb
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.csproj.AssemblyReference.cache
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.AssemblyInfoInputs.cache
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.AssemblyInfo.cs
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.csproj.CoreCompileInputs.cache
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.dll
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\ref\Consoledemo.dll
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.pdb
+C:\Users\hllse\Desktop\Notas\Lenguajes\DotNEt\CursoNinja\Mejoras1\Consoledemo\obj\Debug\net5.0\Consoledemo.genruntimeconfig.cache
