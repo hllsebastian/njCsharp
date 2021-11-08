@@ -5,13 +5,16 @@ namespace DemoStore.Clases
     public class Store
     {
         
-        public string nameStore;
-        public Producto[] AllProducst;  
+        // Se le puede asignar una valor por defecto a la propiedad y asi se omite definirla dentro
+        // del constructor
+        public string nameStore { get; set; } = "Ant Store";
+        public Producto[] AllProducst { get; set; }  
+        public ImportProduct[] AllImportProducts { get; set; }  
 
         public Store()   //         Generando constructor
         {
-            nameStore = "Ant Store";
-            AllProducst = GettingProducts();
+            AllProducst        = GettingProducts();
+            AllImportProducts = GettingImportProducts();
         }
         
 
@@ -43,6 +46,29 @@ namespace DemoStore.Clases
             return listproducts;
         } 
 
+        private ImportProduct[] GettingImportProducts()
+        {
+            ImportProduct [] importProductsList = new ImportProduct[2];
+
+            ImportProduct importProduct1 = new ImportProduct();
+            importProduct1.Name = "Uvas";
+            importProduct1.measuring = Measurement.Kilo;
+            importProduct1.Price = 34.1456;
+            importProduct1.Description= "Delicious";
+            importProduct1.importationCountry = "Argentina";
+
+            ImportProduct importProduct2 = new ImportProduct();
+            importProduct2.Name = "tomatos";
+            importProduct2.measuring = Measurement.Kilo;
+            importProduct2.Price = 5.1456;
+            importProduct2.Description= "Fresh";
+            importProduct2.importationCountry = "Peru"; 
+
+            importProductsList[0] = importProduct1;
+            importProductsList[1] = importProduct2;
+
+            return importProductsList;
+        }
         
 
     }

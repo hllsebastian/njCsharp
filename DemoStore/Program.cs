@@ -37,11 +37,22 @@ namespace DemoStore
                     Console.WriteLine($"{products[i].Name}: {products[i].showPrice()}");
                 }
             }
+           
+           Store MystoreImport = new Store();
+            void printingImportProducts(ImportProduct[] products)
+            {
+                for (var i = 0; i < products.Length; i++)
+                {
+                    Console.WriteLine($"{products[i].Name}: {products[i].showPrice()}");
+                }
+            }
              
-            Console.WriteLine($"Welcome to {myStore.nameStore}");
-            Console.WriteLine("Available products");
-            printingProducts(myStore.AllProducst);
 
+            Console.WriteLine($"Welcome to {myStore.nameStore}");
+            Console.WriteLine("Available natioanal products");
+            printingProducts(myStore.AllProducst);
+            Console.WriteLine("Available import products");
+            printingImportProducts(MystoreImport.AllImportProducts);
 
 
 
